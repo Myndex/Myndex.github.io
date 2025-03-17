@@ -1,2 +1,2 @@
-# Myndex.github.io
-The GitHub Repo for Myndex Research
+# [Myndex.github.io](https://Myndex.github.io)
+Myndex Research selected GitHub repos
